@@ -1,0 +1,95 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020409"/>
+      <stop offset="0.45" stop-color="#050816"/>
+      <stop offset="1" stop-color="#0A1023"/>
+    </linearGradient>
+
+    <radialGradient id="glowL" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(240 90) rotate(14) scale(420 260)">
+      <stop stop-color="#00D9FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowR" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(1320 90) rotate(-10) scale(420 260)">
+      <stop stop-color="#7C3AED" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="line1" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <linearGradient id="accentText" x1="180" y1="110" x2="800" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5FBFF"/>
+      <stop offset="1" stop-color="#C7D2FE"/>
+    </linearGradient>
+
+    <filter id="softBlur" x="-100" y="-100" width="1800" height="620" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#grid)"/>
+  <rect width="1600" height="420" fill="url(#glowL)"/>
+  <rect width="1600" height="420" fill="url(#glowR)"/>
+
+  <g opacity="0.45" filter="url(#softBlur)">
+    <path d="M-40 345 C170 272, 300 382, 490 332 C705 274, 830 358, 1035 318 C1230 280, 1370 318, 1650 250"
+      stroke="url(#line1)" stroke-width="14"/>
+  </g>
+  <path d="M-40 345 C170 272, 300 382, 490 332 C705 274, 830 358, 1035 318 C1230 280, 1370 318, 1650 250"
+    stroke="url(#line1)" stroke-width="4" opacity="0.92"/>
+  <path d="M-30 366 C190 306, 330 388, 530 352 C736 315, 862 365, 1072 342 C1268 320, 1410 337, 1650 300"
+    stroke="#7DD3FC" stroke-width="1.8" opacity="0.35"/>
+
+  <g opacity="0.9">
+    <circle cx="1110" cy="118" r="3.5" fill="#67E8F9"/>
+    <circle cx="1160" cy="152" r="3.5" fill="#67E8F9"/>
+    <circle cx="1215" cy="109" r="3.5" fill="#A78BFA"/>
+    <circle cx="1276" cy="146" r="3.5" fill="#67E8F9"/>
+    <circle cx="1340" cy="111" r="3.5" fill="#A78BFA"/>
+    <circle cx="1390" cy="149" r="3.5" fill="#67E8F9"/>
+
+    <line x1="1110" y1="118" x2="1160" y2="152" stroke="#67E8F9" stroke-opacity="0.65"/>
+    <line x1="1160" y1="152" x2="1215" y2="109" stroke="#8B5CF6" stroke-opacity="0.55"/>
+    <line x1="1215" y1="109" x2="1276" y2="146" stroke="#67E8F9" stroke-opacity="0.65"/>
+    <line x1="1276" y1="146" x2="1340" y2="111" stroke="#8B5CF6" stroke-opacity="0.55"/>
+    <line x1="1340" y1="111" x2="1390" y2="149" stroke="#67E8F9" stroke-opacity="0.65"/>
+  </g>
+
+  <rect x="96" y="98" width="7" height="214" rx="3.5" fill="url(#line1)"/>
+  <text x="130" y="162" fill="url(#accentText)" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700">Felipe Campello Lima</text>
+  <text x="132" y="214" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Full Stack Developer • Backend • Cloud • Microserviços</text>
+  <text x="132" y="258" fill="#B8C4F7" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">TypeScript • Python • APIs robustas • Sistemas distribuídos • Arquitetura escalável</text>
+
+  <g transform="translate(132,300)">
+    <rect x="0" y="0" width="154" height="36" rx="18" fill="#0E152C" stroke="#1F2A44"/>
+    <text x="38" y="23" fill="#E2F8FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Node.js</text>
+
+    <rect x="170" y="0" width="148" height="36" rx="18" fill="#0E152C" stroke="#1F2A44"/>
+    <text x="212" y="23" fill="#E2F8FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Python</text>
+
+    <rect x="334" y="0" width="152" height="36" rx="18" fill="#0E152C" stroke="#1F2A44"/>
+    <text x="376" y="23" fill="#E2F8FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Docker</text>
+
+    <rect x="502" y="0" width="128" height="36" rx="18" fill="#0E152C" stroke="#1F2A44"/>
+    <text x="546" y="23" fill="#E2F8FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">GCP</text>
+  </g>
+
+  <g opacity="0.55">
+    <rect x="1470" y="34" width="82" height="30" rx="15" fill="#0D1427" stroke="#202B43"/>
+    <text x="1511" y="54" text-anchor="middle" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">DARK</text>
+  </g>
+
+  <text x="1455" y="368" text-anchor="end" fill="#8AA4D6" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">github.com/Satsuj1n</text>
+</svg>
