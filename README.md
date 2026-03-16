@@ -25,7 +25,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,fastapi,react,nextjs,angular,postgres,mongodb,redis,docker,kubernetes,gcp,aws,linux,git,swift" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,fastapi,react,nextjs,angular,java,spring,postgres,mongodb,redis,docker,kubernetes,gcp,aws,linux,git,swift" />
 </p>
 
 ---
