@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&lines=Backend+Engineering+%E2%80%A2+Arquitetura+%E2%80%A2+Cloud;APIs+robustas+%E2%80%A2+Sistemas+escal%C3%A1veis+%E2%80%A2+Integra%C3%A7%C3%B5es;Observabilidade+%E2%80%A2+Microsservi%C3%A7os+%E2%80%A2+Distributed+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&lines=Backend+Engineering+•+Arquitetura+•+Cloud;APIs+robustas+•+Sistemas+escaláveis+•+Integrações;Observabilidade+•+Microsserviços+•+Distributed+Systems" />
 
 </div>
 
@@ -32,12 +32,14 @@
 
 ## Foco
 
-```text
-Backend Engineering      █████████████░░░
-Software Architecture    ████████████░░░░
-Cloud & DevOps           ███████████░░░░░
-Distributed Systems      ███████████░░░░░
-APIs & Integrations      █████████████░░░
+```mermaid
+pie showData
+    title Engineering Focus
+    "Backend Engineering" : 32
+    "APIs & Integrações" : 24
+    "Arquitetura de Software" : 20
+    "Cloud & DevOps" : 14
+    "Sistemas Distribuídos" : 10
 ```
 
 ---
