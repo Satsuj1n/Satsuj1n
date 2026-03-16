@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Satsuj1n/Satsuj1n/main/github_banner_felipe_senior_dark.svg" alt="Banner Felipe Campello Lima" width="100%" />
+  <img src="https://raw.githubusercontent.com/Satsuj1n/Satsuj1n/main/github_banner_felipe_senior_dark.svg" alt="Banner Felipe Campello Dalbuquerque Lima" width="100%" />
 </p>
 
 <div align="center">
 
-# Felipe Campello Lima
+# Felipe Campello Dalbuquerque Lima
 
 ### Software Engineer • Backend • Cloud • Sistemas Distribuídos
 
