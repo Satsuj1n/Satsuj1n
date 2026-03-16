@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satsuj1n/Satsuj1n/main/github_banner_felipe_dark.svg" alt="Banner Felipe Campello Lima" width="100%" />
+</p>
+
 <div align="center">
 
-# 👨‍💻 Felipe Campello Dalbuquerque Lima
+# 👨‍💻 Felipe Campello Lima
 
 ### Full Stack Developer • Backend • Cloud • Microserviços • Sistemas Distribuídos
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Desenvolvedor+Full+Stack+com+foco+em+Backend+e+Arquitetura;TypeScript%2FNode.js+%7C+Python+%7C+Cloud+%7C+Microservi%C3%A7os;APIs+robustas%2C+observabilidade+e+engenharia+de+software;Construindo+sistemas+escal%C3%A1veis+com+vis%C3%A3o+de+produto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack+com+foco+em+Backend+e+Arquitetura;TypeScript+%7C+Python+%7C+Cloud+%7C+Microservi%C3%A7os;APIs+robustas%2C+observabilidade+e+engenharia+de+software;Construindo+sistemas+escal%C3%A1veis+com+vis%C3%A3o+de+produto" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,14 +19,14 @@
   <a href="https://www.linkedin.com/in/felipe-lima-792624246">
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Campello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-111827?style=for-the-badge&logo=googlemaps&logoColor=7DD3FC" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 🌑 Sobre mim
 
 Sou desenvolvedor com foco em **engenharia de software**, **backend**, **arquitetura de sistemas** e **soluções escaláveis**.
 
@@ -43,13 +47,13 @@ Tenho interesse especial em:
 <div align="center">
 
 ### Linguagens e Back-end
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,django,fastapi" />
 
 ### Front-end e Mobile
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,html,css,tailwind" />
 
 ### Banco de Dados e Cache
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" />
 
 ### Cloud, DevOps e Ferramentas
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,git,github,linux,vscode" />
@@ -66,16 +70,6 @@ Tenho interesse especial em:
 - Integrações, filas, eventos e microsserviços
 - Observabilidade, deploy e qualidade de software
 - Projetos que gerem impacto real
-
----
-
-## 📌 Destaques profissionais
-
-- Desenvolvimento de serviços e aplicações com responsabilidade ponta a ponta
-- Atuação com **TypeScript/Node.js** e **Python**
-- Experiência com **microserviços**, **APIs**, **cloud** e **sistemas distribuídos**
-- Trabalho com **Docker**, **Kubernetes**, **GCP/AWS**, **Redis**, **PostgreSQL**, **MongoDB**
-- Interesse constante em melhorar arquitetura, performance, escalabilidade e manutenção do código
 
 ---
 
@@ -96,9 +90,17 @@ Tenho interesse especial em:
 
 ---
 
-## 📂 Repositórios em destaque
+## 🚀 Destaques
 
-Aqui estão alguns projetos que representam minha evolução prática no desenvolvimento:
+- Desenvolvimento ponta a ponta de aplicações e serviços
+- Experiência com **TypeScript/Node.js** e **Python**
+- Atuação com **APIs**, **microserviços**, **cloud** e **sistemas distribuídos**
+- Trabalho com **Docker**, **Kubernetes**, **GCP/AWS**, **Redis**, **PostgreSQL** e **MongoDB**
+- Interesse constante em performance, escalabilidade e arquitetura
+
+---
+
+## 📂 Repositórios em destaque
 
 - **curriculo** → projeto voltado à apresentação profissional
 - **druvago** → interface front-end com TypeScript
@@ -106,14 +108,13 @@ Aqui estão alguns projetos que representam minha evolução prática no desenvo
 - **Michelangelo** → projeto em TypeScript
 - **Relogio-Analogico** → prática de fundamentos de front-end e manipulação de interface
 
-> A tendência é que este perfil evolua cada vez mais para destacar projetos de maior complexidade em **backend, arquitetura, cloud e sistemas completos**.
+> Este perfil está em evolução contínua para destacar projetos cada vez mais fortes em backend, arquitetura, cloud e sistemas completos.
 
 ---
 
 ## 📈 Objetivo
 
-Meu objetivo é consolidar um portfólio cada vez mais forte em:
-
+Consolidar um portfólio forte em:
 - **Backend Engineering**
 - **Full Stack Development**
 - **Arquitetura de Software**
@@ -123,7 +124,7 @@ Meu objetivo é consolidar um portfólio cada vez mais forte em:
 
 ---
 
-## 🎯 Filosofia
+## 🌌 Filosofia
 
 > Construir software de verdade.  
 > Com qualidade, clareza, escala e propósito.
@@ -135,13 +136,13 @@ Meu objetivo é consolidar um portfólio cada vez mais forte em:
 <div align="center">
 
 <a href="mailto:felipenehz2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-felipenehz2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-felipenehz2003%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=7DD3FC" />
 </a>
 <a href="https://www.linkedin.com/in/felipe-lima-792624246">
   <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Campello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Satsuj1n">
-  <img src="https://img.shields.io/badge/GitHub-Satsuj1n-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Satsuj1n-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -149,5 +150,5 @@ Meu objetivo é consolidar um portfólio cada vez mais forte em:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0A1023,100:111827&height=120&section=footer" />
 </div>
