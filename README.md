@@ -2,7 +2,7 @@
 
 # Felipe Campello Dalbuquerque Lima
 
-### Software Engineer • Backend • Cloud • Distributed Systems
+### Software Engineer • Backend • Cloud • Distributed Systems • RPA
 
 <p>
   <a href="https://github.com/Satsuj1n">
@@ -25,7 +25,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,fastapi,react,nextjs,angular,java,spring,postgres,mongodb,redis,docker,kubernetes,gcp,aws,linux,git,swift" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,fastapi,react,nextjs,angular,java,spring,postgres,mongodb,redis,mysql,sqlite,docker,kubernetes,gcp,aws,linux,git,swift,selenium,kafka,rabbitmq,elasticsearch,grafana,prometheus,terraform,ansible,bash,cs,dotnet" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ APIs & Integrations      █████████████░░░
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satsuj1n&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Satsuj1n&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
