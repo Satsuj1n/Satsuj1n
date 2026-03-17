@@ -40,6 +40,7 @@ Software Architecture    █████████████░░░
 Cloud & DevOps           ███████████░░░░░
 Distributed Systems      ███████████░░░░░
 APIs & Integrations      █████████████░░░
+RPA & Automation         ██████████████░░
 ```
 
 </div>
@@ -61,13 +62,6 @@ APIs & Integrations      █████████████░░░
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satsuj1n&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satsuj1n&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
 
 ---
 
@@ -87,6 +81,7 @@ APIs & Integrations      █████████████░░░
   <img src="https://img.shields.io/badge/Cloud-1a1b27?style=for-the-badge&logo=googlecloud&logoColor=70a5fd"/>
   <img src="https://img.shields.io/badge/Distributed_Systems-1a1b27?style=for-the-badge&logo=datadog&logoColor=70a5fd"/>
   <img src="https://img.shields.io/badge/Observability-1a1b27?style=for-the-badge&logo=grafana&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/RPA-1a1b27?style=for-the-badge&logo=robotframework&logoColor=70a5fd"/>
 </div>
 
 ---
