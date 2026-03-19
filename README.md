@@ -24,8 +24,49 @@
 
 ## Stack
 
+<h3 align="center">💻 Linguagens</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,fastapi,react,nextjs,angular,java,spring,postgres,mongodb,redis,mysql,sqlite,docker,kubernetes,gcp,aws,linux,git,swift,selenium,kafka,rabbitmq,elasticsearch,grafana,prometheus,terraform,ansible,bash,cs,dotnet,apple,postman,bash,bootstrap,cloudflare,css,dart,debian,devto,discord,firebase,flutter,gitlab,gmail,githubactions,github,gradle,hibernate,instagram,jest,linkedin,latex,linux,md,materialui,npm,notion,ps,pr,pycharm,sass,supabase,tailwind,vercel,vscode,vite,vue" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dotnet,dart,swift,bash" />
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,spring,hibernate" />
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,flutter,bootstrap,tailwind,materialui,sass,css,vite" />
+</p>
+
+<h3 align="center">🗄️ Banco de Dados</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase,firebase" />
+</p>
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,gcp,cloudflare,vercel" />
+</p>
+
+<h3 align="center">📡 Mensageria & Observabilidade</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,elasticsearch,prometheus,grafana" />
+</p>
+
+<h3 align="center">🛠️ Ferramentas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,npm,gradle,postman,jest,selenium" />
+</p>
+
+<h3 align="center">🖥️ Ambiente</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,debian,apple,vscode,pycharm,latex,md,notion" />
+</p>
+
+<h3 align="center">🌐 Social</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gmail,discord,linkedin,instagram,devto,pr,ps" />
 </p>
 
 ---
