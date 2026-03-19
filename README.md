@@ -25,7 +25,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,fastapi,react,nextjs,angular,java,spring,postgres,mongodb,redis,mysql,sqlite,docker,kubernetes,gcp,aws,linux,git,swift,selenium,kafka,rabbitmq,elasticsearch,grafana,prometheus,terraform,ansible,bash,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,django,fastapi,react,nextjs,angular,java,spring,postgres,mongodb,redis,mysql,sqlite,docker,kubernetes,gcp,aws,linux,git,swift,selenium,kafka,rabbitmq,elasticsearch,grafana,prometheus,terraform,ansible,bash,cs,dotnet,insomnia,postman" />
 </p>
 
 ---
