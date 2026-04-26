@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LifeRay-1a1b27?style=for-the-badge&logo=liferay&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/Liferay-1a1b27?style=for-the-badge&logo=liferay&logoColor=70a5fd"/>
 </p>
 
 <h3 align="center">🎨 Frontend</h3>
