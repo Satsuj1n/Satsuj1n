@@ -2,7 +2,7 @@
 
 # Felipe Campello D'Albuquerque Lima
 
-### AI Agent Engineer • LLM Systems • Python Backend • Cloud
+### Fullstack Dev AI • Agent Engineer • LLM Systems • Python Backend • Cloud
 
 <p>
   <a href="https://github.com/Satsuj1n">
