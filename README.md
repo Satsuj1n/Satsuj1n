@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&repeat=true&width=980&lines=AI+Agent+Engineering+•+LLM+Systems+•+MCP;Production+agents+on+AWS+•+Autonomous+trading+systems;Python+•+Django+•+FastAPI+•+Distributed+Systems;Agent+tooling+•+RAG+•+Evals+•+Observability" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&repeat=true&width=980&lines=Fullstack+Dev+AI+Agent+Engineering+•+LLM+Systems+•+MCP;Production+agents+on+AWS+•+Autonomous+trading+systems;Python+•+Django+•+FastAPI+•+Distributed+Systems;Agent+tooling+•+RAG+•+Evals+•+Observability" />
 
 </div>
 
