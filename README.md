@@ -128,7 +128,7 @@ Automation & RPA         ███████████░░░░░
 
 ## What I'm shipping
 
-- **Cosmic Trader** — production crypto trading agent on AWS EC2, deployed via Terraform. Multi-strategy with `ta` indicators, signal → risk → execution architecture, Binance Futures integration.
+- **Cosmic Trader** — production crypto trading agent on AWS EC2, deployed via Terraform. Multi-strategy with `ta` indicators, signal → risk → execution architecture, Binance Futures integration. 
 - **Claude Code Toolkit** — custom slash commands, MCP server configurations, and plugin ecosystem for agentic development workflows.
 - **Agent Memory Patterns** — hierarchical CLAUDE.md scaffolds and per-folder context for large monorepos.
 
