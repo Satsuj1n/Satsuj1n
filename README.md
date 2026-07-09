@@ -1,5 +1,47 @@
 <div align="center">
 
+```text
+:,"""^^^""^^"^^^^^^^`^^^^^^^^^^^^^^^^^`^^^^^^"^""""^"""^"",,   felipe@lima
+,,,""^^^^^^^^^^`````````'. ..  ''  '```^```^`^^^^^^^```^^^^"   --------------------
+,"""^^^^^^^````````'' .':+{{?}/({[~,`. .'```````````````^^^"   OS: macOS Sequoia (Apple Silicon) · Debian (AWS EC2)
+"^^^^^^^^^^``````  ';-{tUC0UJOZJJ00vj/{~I^.``````````````^^"   Uptime: 22 years, 9 months, 8 days
+"^^^^^^^^^```'`'.~\vLQCOQQZZ0OZmZQQOZZ0Lct_ '`'````````````^   IDE: VSCode, PyCharm, Claude Code
+"^^```````````.:)C0ZOC0mZZOOOO0ZmZ0ZmmZ0QQCf:.`'````````````
+"^^``````````.IuCCO0L0mmmZOmmmZZZZZZZmmQ000OU~'^````````````   Languages.Programming: Python, TypeScript, JavaScript, Java, C#, Dart, Swift, Bash
+"^^^````````';cQJOO0mmmOZmmmmmZZmmmmZOmZZZ0OmJ+````````````^   Languages.Computer: HTML, CSS, JSON, YAML, SQL, GraphQL
+^``````````.lzOOQOOZmZ00O0UULZmZOOOZmZZmmZO00mQ_````````````   Languages.Real: Portuguese, English
+`````^^^``'<z0LQ0ZmZOYXv||tfj\vQUUQ0ZZZZZZZOOOZz!'``'```'```
+^````^^^``.[QQOOZZOYnj(<,";!l;;+{|t(/cJJCOmmmOZL{`''''''`''`   Hobbies.Software: Building AI agents, MCP tooling, self-hosting
+^^`````^``.1O0ZZOOv[i::;:,:IIIII!i!!i+_[tu0mmmZ0(`''''''''''   Hobbies.Hardware: Homelab tinkering, mechanical keyboards
+``````````.|OZZZmL-I:;:^' .'":,,"^^^:Il!i~rmZZOZ{ ''''''''''
+``'```````._0OmOZ}l[\frnnr)_l^^^!]/xccvnf}iXmZmQ!.''''''...'   Contact -
+`'```^^^```.rOLZL>_){{{\xnr|-""l[jvurt|1(/~umOO1 ''..''....'   Email: felipenehz2003@gmail.com
+''```^^^^`` /ji|zl;l[j)XU||-~:^!}\f\Jz|n)~!xz[x] ....''.....   LinkedIn: felipecampellolima
+`''````^```';}!:/l:;Ii!+?-_i!:"!-{1}}?+-+iI(-]{' ...........   GitHub: Satsuj1n
+''''````````.li?~!;^``",;;:II;:i~_<i!lI:IIi-1[l ............
+''''``````'''l>+i!;,^^^,;:;!!"`;>+<>!l;::li[|-'........... .   GitHub Stats
+`'''''''``''']{^I<;:"^`^:::<1lI]/_<iI;;I!>~-+_.  ....   ....   Repos: 28 {Owned: 25} | Stars: 22
+'''`''''``''.</___lI,``'";_fzf}xJj-l::;l>~?[[+.  ...      ..   Followers: 20 | Following: 10
+'.'''`'''''.'^}jC[Il;,^]uvvvjf\tcYYvr-li~_}\-.  ..         .   Member since: 2022
+'..'''``'''.. lcO|"lI;:/x/1[?]1{)|fxz)i+<>/n!..            .
+''''''''''.....!rc_Il!;:":>??]]]11?>li~-+{r?.  ..      . . .
+''''''''''''... `(|~_l:;I:,l(JLc]>!<<<_[{_^    ... ..  ... .
+'.''''''..'.....  :!+?-1-!::i-[->>~+{11{_  .    .....  .   .
+'.''''''''..''''. :I,!fmJcj/j{|/tcJCZz~++. ... .... ...    .
+''..'''''''``.   'II:,I/0mmmZZmmZZmZc_<+_'   ..'............
+'''''````'.  ,I~f(<I::,"+((j(}(tuxt]!i><-[/ji.   .'''......'
+``````.  `![jCL0)>~l:,^,;l;I:"l~~-_iii>~]}]rZYz(I'   '''.'''
+^^`. ';[fX0O0Z0Ov!ii;,^`^:;;i~+<~-<II!<-}]}UmmmZ0Jr[;.  .```
+. "+\zC0OZOLOZZOZjI,I;,^`",::,:l<<I:I~__+(QmZmZZZmmm0Xt-"  .
+?fU0O00OOOQQZOZZZLU]^^"^^",;II!ii;:!~>;~fCmZmmZZZZZZZmZZLu}l
+0OOQQ0OZO0L0mZOOZQ0mU/]I' '":;:,' ^>-[r0OOmmZZZZZZZZZZZZZmZ0
+00Q0OZZOO00ZmZOOZOUmwwm0zt(1{}[??)nJ0mmZCmZZZZZmZZZZZZZZZZZZ
+O0OZZZZOO0OmmmZOZZJOZZmwwwwmmmmmwwwmmZZLOmmmZZZZZZZZZZZZZZZm
+OOOZmmZOO0OZZmZOZm0CmZZZmZZZZmmZZZZZZmOLmmmZmZmmZZZZZZZZZZZZ
+ZOOZZZZOOOZZZZZZZZmCOZZmmmZZZZmZZZZZmmCZZZZZmZZmZZZZZZZZZZZm
+ZOOmmZZOOOZZZZZZZZmOCZZZmmmmZmZZZZZZmQ0ZZZZZZZZZZZZZZZZZZZZZ
+```
+
 # Felipe Campello D'Albuquerque Lima 
 
 ### Fullstack Dev • AI Agent Engineer • LLM Systems • Python Backend • Cloud
