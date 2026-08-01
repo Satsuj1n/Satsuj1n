@@ -24,7 +24,7 @@
 
 <div align="center">
 
-I build production AI agents and LLM systems. Currently shipping a live crypto trading agent on AWS, plus tooling around Claude Code, MCP servers, and agent orchestration. Backend engineer by foundation — now applying that to autonomous AI workflows.
+I build production AI agents and LLM systems. Currently shipping a live crypto trading agent on AWS, plus tooling around Claude Code, MCP servers, and agent orchestration. Backend engineer by foundation now applying that to autonomous AI workflows.
 
 **Open to remote contracts (USD).**
 
